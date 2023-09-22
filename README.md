@@ -3,5 +3,6 @@
 
 
 
-![image](https://github.com/JurandirFilho/Calculadora_de_Investimetno/assets/134110583/973ebe1e-79d2-47b8-a2aa-c550d35f9f6a)
+![image](https://github.com/JurandirFilho/Calculadora_de_Investimetno/assets/134110583/6bbb87df-1c4e-4968-b52f-051d1fa9b346)
+
 
